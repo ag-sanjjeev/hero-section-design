@@ -1,3 +1,15 @@
+/*
+  ______________________________________________________________________________________________
+ |                                                                                              |
+ |  Copyright 2024 ag-sanjjeev                                                                  |
+ |                                                                                              |
+ |  The source code is licensed under MIT-style License.                                        |
+ |  The usage, permission and condition are applicable to this source code as per license.      |
+ |  That can be found in LICENSE file or at https://opensource.org/licenses/MIT.                |
+ |______________________________________________________________________________________________|
+
+*/
+
 /*==============================*/
 /* Simple Hero Section main.css */
 /*==============================*/
@@ -7,7 +19,7 @@
 	overflow: hidden;
 }
 
-/* h1 .primary title */
+/* a .primary title */
 a.primary-title {
 	letter-spacing: 10px;			
 	user-select: none;
