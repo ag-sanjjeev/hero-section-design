@@ -8,6 +8,7 @@ This project provides a basic hero section design built with HTML, CSS, and Boot
 - No navigation menu included (focuses solely on hero section)
 - Live demo available
 - CSS Animation
+- Tamil Language used for Hero Section
 
 ## &#9873; Technologies
 - HTML5
